@@ -15,7 +15,7 @@ session_destroy();
     <script>
         window.onload = function() {
             alert("Successfully logged out!");
-            window.location.href = "home_page.php"; 
+            window.location.href = "index.php"; 
         };
     </script>
 </body>
