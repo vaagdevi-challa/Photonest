@@ -56,7 +56,7 @@
             <i class="fas fa-times xy"></i>
         </div>
         <div class="menu">
-            <div class="item"><a href="home_page.php"><i class="fas fa-home"></i>home</a></div>
+            <div class="item"><a href="index.php"><i class="fas fa-home"></i>home</a></div>
             <div class="item">
                 <a class="sub-btn"><i class='bx bx-calendar-event'></i>events<i class="fas fa-angle-right dropdown"></i></a>
                 <div class="sub-menu">
