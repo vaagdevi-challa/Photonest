@@ -25,7 +25,7 @@ try {
             if(isset($_SESSION["EVENT_NAME"]))
                 header("Location: date.php");
             else{
-                header("Location: home_page.php");
+                header("Location: index.php");
             }
             exit;
         } else {
