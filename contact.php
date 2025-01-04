@@ -96,7 +96,7 @@
         </div>
         <div class="menu">
             <div class="item"><a href="my_account.php"><i class="fa-solid fa-user"></i>My Account</a></div>
-          <div class="item"><a href="home_page.php"><i class="fas fa-home"></i>home</a></div>
+          <div class="item"><a href="index.php"><i class="fas fa-home"></i>home</a></div>
           <div class="item">
               <a class="sub-btn"><i class='bx bx-calendar-event'></i>events<i class="fas fa-angle-right dropdown"></i></a>
               <div class="sub-menu">
