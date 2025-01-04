@@ -25,7 +25,7 @@ if (isset($_POST['save'])) {
     $stmt->execute();
 
     session_destroy();
-    header("Location: home_page.php");
+    header("Location: index.php");
     exit();
 }
 ?>
